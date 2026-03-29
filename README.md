@@ -1,5 +1,6 @@
 # SistemaBibliotecaSenac
 Um sistema para gerenciar livros disponíveis na escola, com reservas e controle de empréstimos.
+Foi utilizado como base em um projeto que ministrei em algumas aulas de curso técnico.
 
 # Regras de Negócio do Sistema de Biblioteca Virtual Escolar
 
